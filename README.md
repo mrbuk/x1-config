@@ -1,3 +1,6 @@
+# Arch Linux on X1 Carbon (6. Gen)
+
+The following docs are based mainly on the [Arch Wiki](https://wiki.archlinux.org/index.php/Lenovo_ThinkPad_X1_Carbon_(Gen_6)) for the X1 Carbon (6. Gen).
 
 ## Sound
 
