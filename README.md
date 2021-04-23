@@ -4,7 +4,7 @@ The following docs are based mainly on the [Arch Wiki](https://wiki.archlinux.or
 
 ## Sound
 
-Fix the low volume as described in the following [forum post](https://forums.lenovo.com/t5/Linux-Discussion/X1-Carbon-Gen-6-weird-audio-behaviour/td-p/4167282)
+Fix crackling (firmware patch) as described in the following [forum post](https://forums.lenovo.com/t5/Linux-Discussion/X1-Carbon-Gen-6-weird-audio-behaviour/td-p/4167282) and low volume (model=nofixup)
 
 ```
 sudo cp sound/alsa-base.conf /etc/modprobe.d/alsa-base.conf
